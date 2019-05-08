@@ -1,12 +1,3 @@
-# first_learner
-This is the first machine learning project using docker and tensorflow 2.0
-
-Once you have the repository, you can build and run with the following command
-sudo docker build --rm -f Dockerfile -t first_learner . && sudo docker run first_learner
-
-This will create an image and start it. Once you have built the image, you can always run the pre-built image with
-sudo docker run first_learner
-
 # First Learner
 
 This is the first machine learning project using docker and tensorflow 2.0 on python 3.
